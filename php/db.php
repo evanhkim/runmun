@@ -1,8 +1,8 @@
 <?php
 /* Database connection settings */
-$host = 'localhost';
-$user = 'runmun';
-$pass = 'runmun123';
+$host = '';
+$user = '';
+$pass = '';
 $db = 'runMun';
 $mysqli = new mysqli($host,$user,$pass,$db) or die($mysqli->error);
 ?>
