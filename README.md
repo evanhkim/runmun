@@ -6,8 +6,7 @@ Demo mov file at (https://github.com/s-kimeva/runmun/blob/master/runmun_demo.mov
 
 ## description
 RunMUN is a free model united nations conference management software. 
-Allows for extensive customization including: color, images, countries, flags, etc.
-Offers all neccessary committee features and speech time management. Has an additional mode optimized for crisis committees, which implements a system to track directives. 
-Provides analytics based on speaking time.
+It allows for extensive customization including color, images, countries, flags, etc.
+Offering all necessary committee features and speech time management, RunMUN also has an additional mode optimized for crisis committees implementing a system to track directives throughout debate. Finally, RunMUN rovides analytics based on speaking time.
 
-Site at www.runmun.app
+Find out more at www.runmun.app
