@@ -1,7 +1,7 @@
 # runmun
 
 ## demo
-Youtube video at (https://www.youtube.com/watch?v=6Uf5RGsKvyU)
+Youtube video at (https://youtu.be/6mtrltleePs)
 Demo mov file at (https://github.com/s-kimeva/runmun/blob/master/runmun_demo.mov)
 
 ## description
