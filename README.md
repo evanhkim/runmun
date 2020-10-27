@@ -1,8 +1,7 @@
 # runmun
 
 ## demo
-Youtube video at (https://youtu.be/6mtrltleePs)
-Demo mov file at (https://github.com/s-kimeva/runmun/blob/master/runmun_demo.mov)
+Youtube video at (https://youtu.be/nryyBVoFiBI)
 
 ## description
 RunMUN is a free model united nations conference management software. 
