@@ -1,8 +1,5 @@
 # runmun
 
-## demo
-Youtube video at (https://youtu.be/nryyBVoFiBI)
-
 ## description
 RunMUN is a free model united nations conference management software. 
 It allows for extensive customization including color, images, countries, flags, etc.
